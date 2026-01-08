@@ -5,5 +5,5 @@ http.get("http://localhost:3000/health", res => {
     console.error("Health check failed");
     process.exit(1);
   }
-  console.log("Health check passed ✅");
+  console.log("Health check passed......... ✅");
 });
